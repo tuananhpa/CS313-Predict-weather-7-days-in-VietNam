@@ -5,7 +5,11 @@
 Đây là dự án môn học CS313, xây dựng hệ thống dự báo thời tiết 7 ngày tại các tỉnh, thành phố Việt Nam. Hệ thống sử dụng ngôn ngữ lập trình Python, lấy dữ liệu thời tiết từ API OpenWeatherMap và sử dụng các phương pháp học máy cơ bản để dự đoán.
 
 **Thành viên nhóm 2:**
-- Tên các thành viên, mã số sinh viên (nên cập nhật cụ thể)
+- Hà Tuấn Anh
+- Nguyễn Bi Anh
+- Trần Hải Đăng
+- Phạm Phú Bảo
+- Trần Tiến Đạt
 
 ## Mục tiêu dự án
 
@@ -13,7 +17,6 @@
 - Xây dựng giao diện nhập thông tin địa phương và hiển thị kết quả dự báo.
 
 ## Các chức năng chính
-
 - Truy vấn dữ liệu thời tiết thực tế từ OpenWeatherMap API.
 - Tiền xử lý và huấn luyện mô hình dự báo.
 - Đưa ra kết quả dự báo 7 ngày, trực quan trên giao diện (bảng, biểu đồ hoặc file xuất).
@@ -75,3 +78,4 @@ Vui lòng xem file [Report_Nhóm_2.pdf](./Report_Nhóm_2.pdf) để biết chi t
 ---
 
 > **Lưu ý:** Vui lòng bổ sung tên thành viên, mã sinh viên, thông số/hình ảnh minh họa phù hợp với đồ án thực tế khi hoàn thiện báo cáo.
+
